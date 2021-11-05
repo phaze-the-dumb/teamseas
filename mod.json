@@ -1,0 +1,20 @@
+
+{
+    "_QPVersion": "0.1.1",
+    "name": "TeamSeas",
+    "id": "TeamSeas",
+    "author": "Phaze#6193",
+    "version": "1.0.2",
+    "packageId": "com.beatgames.beatsaber",
+    "packageVersion": "1.17.1",
+    "description": "A mod for customizing your banners.",
+    "modFiles": [
+        "libTeamSeas.so"
+    ],
+    "libraryFiles": [
+        "libbeatsaber-hook_2_3_0.so"
+    ],
+    "fileCopies": [
+		
+    ]
+}
